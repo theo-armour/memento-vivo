@@ -13,6 +13,7 @@
 
 
 ## Are we a startup?
+
 * A name?
 * Set up like a company? $500 to $1,000 per month?
 * Very horizontal and flexible organization
@@ -40,9 +41,9 @@
 
 ## Short term
 
-    * Shoeboxed knowledge / API
-    * 4TB external drives
-    * GitHub/GitLab/other? long term storage?
+* Shoeboxed knowledge / API
+* 4TB external drives
+* GitHub/GitLab/other? long term storage?
 
 
 ## The things
